@@ -5,5 +5,7 @@
     "target": "es2021",
     "esModuleInterop": true,
     "allowJs": true
-  }
+  },
+  "include": ["**/*"],
+  "exclude": ["./dist"]
 }
